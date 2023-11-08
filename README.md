@@ -1,2 +1,2 @@
-# Fruits-Image-Classification
+# Fruits-Classification
 EDA, CNN models, Transfer Learning, Ensemble Learning
